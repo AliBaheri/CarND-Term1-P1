@@ -1,24 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce936380-c572-4376-94b5-6bfa40c7423e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/P1_example.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/challenge.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/examples/grayscale.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/laneLines_thirdPass.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/line-segments-example.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/raw-lines-example.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/solidWhiteRight.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/solidYellowLeft.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/test_images/solidWhiteCurve.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/test_images/solidWhiteRight.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/test_images/solidYellowCurve.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/test_images/solidYellowCurve2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/test_images/solidYellowLeft.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/test_images/whiteCarLaneSwitch.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/P1.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/writeup_template.md" />
+    <list default="true" id="ce936380-c572-4376-94b5-6bfa40c7423e" name="Default" comment="Changed the file structure">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/exit-ramp.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/lane-lines-test.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/test/blur_gray.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/test/color-select.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/test/gray.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/test/image.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/test/line_image.jpg" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/P1.ipynb" afterPath="$PROJECT_DIR$/P1.ipynb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/P1_example.mp4" afterPath="$PROJECT_DIR$/P1_example.mp4" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/challenge.mp4" afterPath="$PROJECT_DIR$/challenge.mp4" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/examples/grayscale.jpg" afterPath="$PROJECT_DIR$/examples/grayscale.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/laneLines_thirdPass.jpg" afterPath="$PROJECT_DIR$/laneLines_thirdPass.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/line-segments-example.jpg" afterPath="$PROJECT_DIR$/line-segments-example.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/raw-lines-example.mp4" afterPath="$PROJECT_DIR$/raw-lines-example.mp4" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/solidWhiteRight.mp4" afterPath="$PROJECT_DIR$/solidWhiteRight.mp4" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/solidYellowLeft.mp4" afterPath="$PROJECT_DIR$/solidYellowLeft.mp4" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/test_images/solidWhiteCurve.jpg" afterPath="$PROJECT_DIR$/test_images/solidWhiteCurve.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/test_images/solidWhiteRight.jpg" afterPath="$PROJECT_DIR$/test_images/solidWhiteRight.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/test_images/solidYellowCurve.jpg" afterPath="$PROJECT_DIR$/test_images/solidYellowCurve.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/test_images/solidYellowCurve2.jpg" afterPath="$PROJECT_DIR$/test_images/solidYellowCurve2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/test_images/solidYellowLeft.jpg" afterPath="$PROJECT_DIR$/test_images/solidYellowLeft.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/test_images/whiteCarLaneSwitch.jpg" afterPath="$PROJECT_DIR$/test_images/whiteCarLaneSwitch.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/writeup_template.md" afterPath="$PROJECT_DIR$/writeup_template.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,7 +40,27 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="P1.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/P1.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -96,20 +123,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CarND-Term1-P1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CarND-Term1-P1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="P1-Lane-Lines" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -120,6 +133,12 @@
     <property name="nodejs_interpreter_path" value="/usr/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
+    <property name="SearchEverywhereHistoryKey" value="plug&#9;ACTION&#9;WelcomeScreen.Plugins" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -365,14 +384,21 @@
       <option name="project" value="LOCAL" />
       <updated>1487306026346</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Repo initialization with P1 files.">
+      <created>1487369930803</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1487369930804</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1916" y="90" width="1608" height="860" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20988446" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20988446" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -424,7 +450,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit to my CarND-Term1 Repo" />
     <MESSAGE value="Finished lessons through 1.12 - canny edges." />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished lessons through 1.12 - canny edges." />
+    <MESSAGE value="Repo initialization with P1 files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Repo initialization with P1 files." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -478,13 +505,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="84" column="4" lean-forward="false" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -571,6 +591,21 @@
     <entry file="file://$PROJECT_DIR$/images/exit-ramp.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
