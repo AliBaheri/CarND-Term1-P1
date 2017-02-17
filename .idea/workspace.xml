@@ -1,32 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce936380-c572-4376-94b5-6bfa40c7423e" name="Default" comment="Changed the file structure">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/exit-ramp.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/lane-lines-test.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/test/blur_gray.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/test/color-select.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/test/gray.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/test/image.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/test/line_image.jpg" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/P1.ipynb" afterPath="$PROJECT_DIR$/P1.ipynb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/P1_example.mp4" afterPath="$PROJECT_DIR$/P1_example.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/challenge.mp4" afterPath="$PROJECT_DIR$/challenge.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/examples/grayscale.jpg" afterPath="$PROJECT_DIR$/examples/grayscale.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/laneLines_thirdPass.jpg" afterPath="$PROJECT_DIR$/laneLines_thirdPass.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/line-segments-example.jpg" afterPath="$PROJECT_DIR$/line-segments-example.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/raw-lines-example.mp4" afterPath="$PROJECT_DIR$/raw-lines-example.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/solidWhiteRight.mp4" afterPath="$PROJECT_DIR$/solidWhiteRight.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/solidYellowLeft.mp4" afterPath="$PROJECT_DIR$/solidYellowLeft.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/test_images/solidWhiteCurve.jpg" afterPath="$PROJECT_DIR$/test_images/solidWhiteCurve.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/test_images/solidWhiteRight.jpg" afterPath="$PROJECT_DIR$/test_images/solidWhiteRight.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/test_images/solidYellowCurve.jpg" afterPath="$PROJECT_DIR$/test_images/solidYellowCurve.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/test_images/solidYellowCurve2.jpg" afterPath="$PROJECT_DIR$/test_images/solidYellowCurve2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/test_images/solidYellowLeft.jpg" afterPath="$PROJECT_DIR$/test_images/solidYellowLeft.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/test_images/whiteCarLaneSwitch.jpg" afterPath="$PROJECT_DIR$/test_images/whiteCarLaneSwitch.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/P1-Lane-Lines/writeup_template.md" afterPath="$PROJECT_DIR$/writeup_template.md" />
+    <list default="true" id="ce936380-c572-4376-94b5-6bfa40c7423e" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/P1_example.mp4" afterPath="$PROJECT_DIR$/videos/P1_example.mp4" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/challenge.mp4" afterPath="$PROJECT_DIR$/videos/challenge.mp4" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lane-lines.ipynb" afterPath="$PROJECT_DIR$/examples/lane-lines.ipynb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/laneLines_thirdPass.jpg" afterPath="$PROJECT_DIR$/examples/laneLines_thirdPass.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/line-segments-example.jpg" afterPath="$PROJECT_DIR$/examples/line-segments-example.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/raw-lines-example.mp4" afterPath="$PROJECT_DIR$/videos/raw-lines-example.mp4" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/solidWhiteRight.mp4" afterPath="$PROJECT_DIR$/videos/solidWhiteRight.mp4" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/solidYellowLeft.mp4" afterPath="$PROJECT_DIR$/videos/solidYellowLeft.mp4" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_images/solidWhiteCurve.jpg" afterPath="$PROJECT_DIR$/images/solidWhiteCurve.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_images/solidWhiteRight.jpg" afterPath="$PROJECT_DIR$/images/solidWhiteRight.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_images/solidYellowCurve.jpg" afterPath="$PROJECT_DIR$/images/solidYellowCurve.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_images/solidYellowCurve2.jpg" afterPath="$PROJECT_DIR$/images/solidYellowCurve2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_images/solidYellowLeft.jpg" afterPath="$PROJECT_DIR$/images/solidYellowLeft.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_images/whiteCarLaneSwitch.jpg" afterPath="$PROJECT_DIR$/images/whiteCarLaneSwitch.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/P1.ipynb" afterPath="$PROJECT_DIR$/P1.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,22 +32,75 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="P1.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/P1.ipynb">
+      <file leaf-file-name="lane-lines.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/lane-lines.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="0" />
+              <selected id="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
+      <file leaf-file-name="overlayed_lines.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="whiteCarLaneSwitch.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/whiteCarLaneSwitch.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="solidYellowLeft.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/solidYellowLeft.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="solidYellowCurve2.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/solidYellowCurve2.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="solidWhiteCurve.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/solidWhiteCurve.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hough_lines.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/output/hough_lines.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="regioned_edges.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/output/regioned_edges.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="canny_edges.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/output/canny_edges.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blur_canny_edges.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/output/blur_canny_edges.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -86,10 +130,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1916" />
-    <option name="y" value="90" />
-    <option name="width" value="1608" />
-    <option name="height" value="860" />
+    <option name="x" value="240" />
+    <option name="y" value="106" />
+    <option name="width" value="1642" />
+    <option name="height" value="858" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -123,6 +167,52 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CarND-Term1-P1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CarND-Term1-P1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CarND-Term1-P1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CarND-Term1-P1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="output" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CarND-Term1-P1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CarND-Term1-P1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -137,6 +227,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/examples" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/videos" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -391,21 +484,28 @@
       <option name="project" value="LOCAL" />
       <updated>1487369930804</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Changed the file structure of the project so P1 stuff is in the root.">
+      <created>1487370737023</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1487370737023</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1916" y="90" width="1608" height="860" extended-state="6" />
-    <editor active="true" />
+    <frame x="240" y="106" width="1642" height="858" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20988446" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20540202" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32650274" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3260274" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -451,7 +551,8 @@
     <MESSAGE value="First commit to my CarND-Term1 Repo" />
     <MESSAGE value="Finished lessons through 1.12 - canny edges." />
     <MESSAGE value="Repo initialization with P1 files." />
-    <option name="LAST_COMMIT_MESSAGE" value="Repo initialization with P1 files." />
+    <MESSAGE value="Changed the file structure of the project so P1 stuff is in the root." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed the file structure of the project so P1 stuff is in the root." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -602,10 +703,100 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="324">
+          <caret line="18" column="2" lean-forward="false" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/laneLines_thirdPass.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/line-segments-example.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/solidYellowCurve.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/solidWhiteRight.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/writeup_template.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/output/canny_edges1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/output/canny_edges2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/output/blur_canny_edges.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/output/canny_edges.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/output/hough_lines.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/lane-lines.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/solidWhiteCurve.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/whiteCarLaneSwitch.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/solidYellowLeft.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/solidYellowCurve2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/output/regioned_edges.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
