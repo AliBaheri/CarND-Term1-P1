@@ -2,10 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce936380-c572-4376-94b5-6bfa40c7423e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/test/edges.jpg" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/P1_example.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/challenge.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/examples/grayscale.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/laneLines_thirdPass.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/line-segments-example.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/raw-lines-example.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/solidWhiteRight.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/solidYellowLeft.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/test_images/solidWhiteCurve.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/test_images/solidWhiteRight.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/test_images/solidYellowCurve.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/test_images/solidYellowCurve2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/test_images/solidYellowLeft.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/test_images/whiteCarLaneSwitch.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/P1.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P1-Lane-Lines/writeup_template.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/lane-lines-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/lane-lines-checkpoint.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lane-lines.ipynb" afterPath="$PROJECT_DIR$/lane-lines.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,7 +33,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -68,36 +82,36 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CarND-Term1-Starter-Kit" />
+              <option name="myItemId" value="CarND-Term1-P1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CarND-Term1-Starter-Kit" />
+              <option name="myItemId" value="CarND-Term1-P1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CarND-Term1-Starter-Kit" />
+              <option name="myItemId" value="CarND-Term1-P1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CarND-Term1-Starter-Kit" />
+              <option name="myItemId" value="CarND-Term1-P1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
+              <option name="myItemId" value="P1-Lane-Lines" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -358,14 +372,14 @@
     <frame x="1916" y="90" width="1608" height="860" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20731707" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20988446" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3271523" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32650274" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -442,16 +456,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/test/edges.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/test/edges.jpg" />
     <entry file="file://$PROJECT_DIR$/meta_windows_patch.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -536,39 +545,21 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/test/edges.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/test/edges.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/test/masked_edges.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/test/edges.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/test/edges.png" />
+    <entry file="file://$PROJECT_DIR$/images/test/masked_edges.png" />
     <entry file="file://$PROJECT_DIR$/run.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/test/lines_edges.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/test/lines_edges.png" />
     <entry file="file://$PROJECT_DIR$/meta_windows_patch.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
