@@ -2,20 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce936380-c572-4376-94b5-6bfa40c7423e" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/P1_example.mp4" afterPath="$PROJECT_DIR$/videos/P1_example.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/challenge.mp4" afterPath="$PROJECT_DIR$/videos/challenge.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lane-lines.ipynb" afterPath="$PROJECT_DIR$/examples/lane-lines.ipynb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/laneLines_thirdPass.jpg" afterPath="$PROJECT_DIR$/examples/laneLines_thirdPass.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/line-segments-example.jpg" afterPath="$PROJECT_DIR$/examples/line-segments-example.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/raw-lines-example.mp4" afterPath="$PROJECT_DIR$/videos/raw-lines-example.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/solidWhiteRight.mp4" afterPath="$PROJECT_DIR$/videos/solidWhiteRight.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/solidYellowLeft.mp4" afterPath="$PROJECT_DIR$/videos/solidYellowLeft.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_images/solidWhiteCurve.jpg" afterPath="$PROJECT_DIR$/images/solidWhiteCurve.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_images/solidWhiteRight.jpg" afterPath="$PROJECT_DIR$/images/solidWhiteRight.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_images/solidYellowCurve.jpg" afterPath="$PROJECT_DIR$/images/solidYellowCurve.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_images/solidYellowCurve2.jpg" afterPath="$PROJECT_DIR$/images/solidYellowCurve2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_images/solidYellowLeft.jpg" afterPath="$PROJECT_DIR$/images/solidYellowLeft.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_images/whiteCarLaneSwitch.jpg" afterPath="$PROJECT_DIR$/images/whiteCarLaneSwitch.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/P1.ipynb" afterPath="$PROJECT_DIR$/P1.ipynb" />
     </list>
@@ -31,46 +17,58 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="lane-lines.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/examples/lane-lines.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="overlayed_lines.png" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines.png">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="overlayed_lines_0.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_0.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="whiteCarLaneSwitch.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/whiteCarLaneSwitch.jpg">
+      <file leaf-file-name="canny_edges_0.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/images/output/canny_edges_0.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="solidYellowLeft.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/solidYellowLeft.jpg">
+      <file leaf-file-name="canny_edges_1.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/output/canny_edges_1.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="solidYellowCurve2.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/solidYellowCurve2.jpg">
+      <file leaf-file-name="overlayed_lines_1.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_1.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="solidWhiteCurve.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/solidWhiteCurve.jpg">
+      <file leaf-file-name="overlayed_lines_2.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_2.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="overlayed_lines_3.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_3.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="overlayed_lines_4.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_4.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="overlayed_lines_5.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_5.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -85,20 +83,6 @@
       </file>
       <file leaf-file-name="regioned_edges.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/images/output/regioned_edges.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="canny_edges.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/output/canny_edges.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blur_canny_edges.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/output/blur_canny_edges.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -130,8 +114,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="240" />
-    <option name="y" value="106" />
+    <option name="x" value="244" />
+    <option name="y" value="128" />
     <option name="width" value="1642" />
     <option name="height" value="858" />
   </component>
@@ -153,7 +137,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -215,6 +198,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -491,18 +475,25 @@
       <option name="project" value="LOCAL" />
       <updated>1487370737023</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Changed the file structure of the project so P1 stuff is in the root.">
+      <created>1487374861610</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1487374861610</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="240" y="106" width="1642" height="858" extended-state="0" />
-    <editor active="false" />
+    <frame x="244" y="128" width="1642" height="858" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20540202" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20791458" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3260274" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -544,6 +535,24 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -559,49 +568,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/test/image.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/test/color-select.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/test/line_image.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/test/blur_gray.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/test/gray.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/test/edges.jpg" />
-    <entry file="file://$PROJECT_DIR$/meta_windows_patch.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/lane-lines-test.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/exit-ramp.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/exit-ramp.jpg" />
     <entry file="file://$PROJECT_DIR$/doc/configure_via_anaconda.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -624,26 +591,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lane-lines.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/lane-lines.ipynb" />
     <entry file="file://$PROJECT_DIR$/image.jpg" />
     <entry file="file://$PROJECT_DIR$/images/exit-ramp.png" />
     <entry file="file://$PROJECT_DIR$/images/test/gray.jpg" />
-    <entry file="file://$PROJECT_DIR$/images/test/image.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/test/gray.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/test/image.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/test/gray.png" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
@@ -651,21 +604,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/test/color-select.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/test/line_image.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/test/blur_gray.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/test/color-select.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/test/line_image.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/test/blur_gray.jpg" />
     <entry file="file://$PROJECT_DIR$/images/test/edges.jpg" />
     <entry file="file://$PROJECT_DIR$/images/test/edges.png" />
     <entry file="file://$PROJECT_DIR$/images/test/masked_edges.png" />
@@ -684,28 +625,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/lane-lines-test.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/exit-ramp.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/P1.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/lane-lines-test.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/exit-ramp.jpg" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="18" column="2" lean-forward="false" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -724,56 +649,15 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/solidWhiteRight.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/writeup_template.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/output/canny_edges1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/output/canny_edges2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/output/blur_canny_edges.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/output/canny_edges.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/output/hough_lines.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/lane-lines.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/solidWhiteCurve.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/output/canny_edges1.png" />
+    <entry file="file://$PROJECT_DIR$/images/output/canny_edges2.png" />
     <entry file="file://$PROJECT_DIR$/images/whiteCarLaneSwitch.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -789,12 +673,92 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines.png" />
+    <entry file="file://$PROJECT_DIR$/images/solidWhiteCurve.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/solidWhiteRight.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/output/altered_canny.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/output/blur_canny_edges.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/output/canny_edges.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/lane-lines.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/images/output/regioned_edges.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines.png">
+    <entry file="file://$PROJECT_DIR$/images/output/hough_lines.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/output/canny_edges_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_0.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_5.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/output/canny_edges_0.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
