@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce936380-c572-4376-94b5-6bfa40c7423e" name="Default" comment="">
+    <list default="true" id="ce936380-c572-4376-94b5-6bfa40c7423e" name="Default" comment="Pipeline now draws the region of interest polygon.">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/P1.ipynb" afterPath="$PROJECT_DIR$/P1.ipynb" />
     </list>
@@ -18,6 +18,15 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="lane-lines.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/lane-lines.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="overlayed_lines_0.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_0.png">
           <provider selected="true" editor-type-id="images">
@@ -62,13 +71,6 @@
       </file>
       <file leaf-file-name="overlayed_lines_5.png" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_5.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="solidYellowLeft.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/solidYellowLeft.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -521,7 +523,14 @@
       <option name="project" value="LOCAL" />
       <updated>1487453220111</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Pipeline now draws the region of interest polygon.">
+      <created>1487459868181</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1487459868183</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -601,7 +610,8 @@
     <MESSAGE value="Repo initialization with P1 files." />
     <MESSAGE value="Changed the file structure of the project so P1 stuff is in the root." />
     <MESSAGE value="Finished the create_vertices method that will determine on a per-image basis what our region of interest for the lane lines should be." />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished the create_vertices method that will determine on a per-image basis what our region of interest for the lane lines should be." />
+    <MESSAGE value="Pipeline now draws the region of interest polygon." />
+    <option name="LAST_COMMIT_MESSAGE" value="Pipeline now draws the region of interest polygon." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -709,13 +719,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/lane-lines.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/P1.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -771,6 +774,13 @@
     <entry file="file://$PROJECT_DIR$/images/output/canny_edges_0.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/lane-lines.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_0.png">
