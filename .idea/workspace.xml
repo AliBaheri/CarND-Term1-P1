@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce936380-c572-4376-94b5-6bfa40c7423e" name="Default" comment="Pipeline now draws the region of interest polygon.">
+    <list default="true" id="ce936380-c572-4376-94b5-6bfa40c7423e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/P1.ipynb" afterPath="$PROJECT_DIR$/P1.ipynb" />
     </list>
@@ -48,7 +48,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="overlayed_lines_3.png" pinned="false" current-in-tab="false">
+      <file leaf-file-name="overlayed_lines_3.png" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_3.png">
           <provider selected="true" editor-type-id="images">
             <state />
@@ -69,7 +69,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="overlayed_lines_5.png" pinned="false" current-in-tab="true">
+      <file leaf-file-name="overlayed_lines_5.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_5.png">
           <provider selected="true" editor-type-id="images">
             <state />
@@ -530,7 +530,14 @@
       <option name="project" value="LOCAL" />
       <updated>1487459868183</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Fix is now in place for region detection with dotted lines.">
+      <created>1487463404680</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1487463404680</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -611,7 +618,8 @@
     <MESSAGE value="Changed the file structure of the project so P1 stuff is in the root." />
     <MESSAGE value="Finished the create_vertices method that will determine on a per-image basis what our region of interest for the lane lines should be." />
     <MESSAGE value="Pipeline now draws the region of interest polygon." />
-    <option name="LAST_COMMIT_MESSAGE" value="Pipeline now draws the region of interest polygon." />
+    <MESSAGE value="Fix is now in place for region detection with dotted lines." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix is now in place for region detection with dotted lines." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -783,12 +791,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_0.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_1.png">
+    <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_5.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -798,17 +801,22 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_4.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_5.png">
+    <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_0.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_3.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
