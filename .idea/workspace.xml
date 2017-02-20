@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce936380-c572-4376-94b5-6bfa40c7423e" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/challenge.mp4" afterPath="$PROJECT_DIR$/videos/challengeShadowCurve.mp4" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/challenge.jpg" afterPath="$PROJECT_DIR$/images/challenge.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/challengeBridgeApproach.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/challengeOnBridge.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/solidWhiteCurve.jpg" afterPath="$PROJECT_DIR$/images/done/solidWhiteCurve.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/solidWhiteRight.jpg" afterPath="$PROJECT_DIR$/images/done/solidWhiteRight.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/solidYellowCurve.jpg" afterPath="$PROJECT_DIR$/images/done/solidYellowCurve.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/solidYellowCurve2.jpg" afterPath="$PROJECT_DIR$/images/done/solidYellowCurve2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/solidYellowLeft.jpg" afterPath="$PROJECT_DIR$/images/done/solidYellowLeft.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/whiteCarLaneSwitch.jpg" afterPath="$PROJECT_DIR$/images/done/whiteCarLaneSwitch.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/P1.ipynb" afterPath="$PROJECT_DIR$/P1.ipynb" />
     </list>
@@ -27,8 +33,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hough_lines.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/output/hough_lines.png">
+      <file leaf-file-name="canny_edges_0.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/output/canny_edges_0.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="canny_edges_1.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/output/canny_edges_1.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="challengeBridgeApproach.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/challengeBridgeApproach.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -41,50 +61,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="overlayed_lines_2.png" pinned="false" current-in-tab="false">
+      <file leaf-file-name="overlayed_lines_2.png" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_2.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="overlayed_lines_3.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_3.png">
+      <file leaf-file-name="canny_edges_2.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/output/canny_edges_2.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="overlayed_lines_4.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_4.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="overlayed_lines_5.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_5.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="overlayed_lines_6.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_6.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="canny_edges_0.png" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/images/output/canny_edges_0.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="challenge.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/challenge.jpg">
+      <file leaf-file-name="challengeOnBridge.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/challengeOnBridge.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -226,6 +218,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="done" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CarND-Term1-P1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CarND-Term1-P1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="examples" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -245,6 +255,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/done" />
       <recent name="$PROJECT_DIR$/examples" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/videos" />
@@ -551,7 +562,14 @@
       <option name="project" value="LOCAL" />
       <updated>1487545306921</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Have things in a good place for submission (aside from some colors?), but want to keep tweaking for the challenge problem.">
+      <created>1487547804821</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1487547804821</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -635,23 +653,14 @@
     <MESSAGE value="Fix is now in place for region detection with dotted lines." />
     <MESSAGE value="Have an average lines function in place that averages the Hough lines we get after grouping them by positive and negative slope.&#10;&#10;Will need to take these averages and extrapolate them out to the bottom of the screen and top of our region of interest." />
     <MESSAGE value="Added a screenshot of the challenge video to experiment with. Also fixed some code that caused the challenge video to break due to out of bounds errors and such." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a screenshot of the challenge video to experiment with. Also fixed some code that caused the challenge video to break due to out of bounds errors and such." />
+    <MESSAGE value="Have things in a good place for submission (aside from some colors?), but want to keep tweaking for the challenge problem." />
+    <option name="LAST_COMMIT_MESSAGE" value="Have things in a good place for submission (aside from some colors?), but want to keep tweaking for the challenge problem." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ffmpeg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lane-lines.ipynb" />
-    <entry file="file://$PROJECT_DIR$/image.jpg" />
-    <entry file="file://$PROJECT_DIR$/images/exit-ramp.png" />
     <entry file="file://$PROJECT_DIR$/images/test/gray.jpg" />
     <entry file="file://$PROJECT_DIR$/images/test/image.jpg" />
     <entry file="file://$PROJECT_DIR$/images/test/gray.png" />
@@ -722,42 +731,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/solidWhiteCurve.jpg">
+    <entry file="file://$PROJECT_DIR$/images/done/solidWhiteCurve.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/solidWhiteRight.jpg">
+    <entry file="file://$PROJECT_DIR$/images/done/solidWhiteRight.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/solidYellowCurve.jpg">
+    <entry file="file://$PROJECT_DIR$/images/done/solidYellowCurve.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/solidYellowCurve2.jpg">
+    <entry file="file://$PROJECT_DIR$/images/done/solidYellowCurve2.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/solidYellowLeft.jpg">
+    <entry file="file://$PROJECT_DIR$/images/done/solidYellowLeft.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/whiteCarLaneSwitch.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/output/canny_edges_1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/output/canny_edges_2.png">
+    <entry file="file://$PROJECT_DIR$/images/done/whiteCarLaneSwitch.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -784,16 +783,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_4.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_5.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -804,17 +793,52 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/challenge.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/output/canny_edges_3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/output/canny_edges_4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/output/canny_edges_0.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/challengeBridgeApproach.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/challengeOnBridge.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/output/canny_edges_2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/output/canny_edges_1.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -824,7 +848,12 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/output/canny_edges_0.png">
+    <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/output/overlayed_lines_2.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
