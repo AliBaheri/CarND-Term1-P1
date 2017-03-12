@@ -15,5 +15,6 @@ In this project I have created a pipeline to detect lane lines in images and vid
 Getting Started
 ---
 
-This project was derived from my fork of Udactiy's Starter Kit.
-The starter and instrutions for getting started are [here](https://github.com/SealedSaint/CarND-Term1-Starter).
+This project was derived from my fork of [Udactiy's Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit).
+
+The starter and instrutions for getting started with my fork are [here](https://github.com/SealedSaint/CarND-Term1-Starter).
