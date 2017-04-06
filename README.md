@@ -1,6 +1,8 @@
-#Finding Lane Lines on the Road#
+# Finding Lane Lines on the Road
 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+
+![Detected Lane Lines](https://github.com/SealedSaint/CarND-Term1-P1/blob/master/LaneLineDetection.png)
 
 Check out my write-up and results for this project [here on Medium](https://medium.com/@SealedSaint/detecting-lane-lines-udacity-sdcnd-b52bf36193cb).
 
